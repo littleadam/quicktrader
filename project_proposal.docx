@@ -1,0 +1,25 @@
+Project Proposal: Android App for Zerodha API Clients to Place Orders
+
+Introduction:
+The purpose of this project is to develop an Android app that enables Zerodha API clients to place orders directly from their mobile devices. The app will provide an easy-to-use interface for trading stocks, commodities, and currencies on the Zerodha platform.
+
+Problem Statement:
+Currently, Zerodha clients have to use the web-based platform or the desktop trading software to place orders. However, there is no mobile app available for placing orders. Many clients prefer to trade on the go and need a mobile app to place orders quickly and easily.
+
+Proposed Solution:
+The proposed solution is to develop an Android app that enables Zerodha API clients to place orders directly from their mobile devices. The app will be developed using Java and Android Studio and will use Zerodha's API to place orders on the Zerodha platform.
+
+The app will have the following features:
+User-friendly interface: The app will provide an easy-to-use interface for placing orders. Users will be able to view their account balance, portfolio, and order history from the app.
+Real-time data: The app will provide real-time data on stock prices, market trends, and news, allowing users to make informed trading decisions.
+Order placement: The app will allow users to place orders for stocks, commodities, and currencies on the Zerodha platform.
+Order tracking: The app will provide real-time tracking of placed orders, enabling users to monitor the progress of their trades.
+Customizable: The app will be customizable, allowing users to set up personalized alerts, notifications, and trading strategies.
+Secure: The app will use encryption and other security measures to protect user data and ensure secure trading.
+
+Conclusion:
+The proposed Android app will provide Zerodha API clients with a convenient and user-friendly way to place orders directly from their mobile devices. The app will provide real-time data, order placement and tracking, and customizable features to enable informed trading decisions. The app will be developed using Java and Android Studio and will use Zerodha's API to place orders on the Zerodha platform.
+
+
+
+
